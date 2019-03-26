@@ -7,5 +7,6 @@ namespace ivajur
 {
     class NewClass
     {
+        printf("dobar dan!!");
     }
 }
