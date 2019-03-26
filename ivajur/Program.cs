@@ -10,6 +10,7 @@ namespace ivajur
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            //EJ IVAAAA, VIKI JE
         }
     }
 }
